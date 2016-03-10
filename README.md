@@ -1,8 +1,8 @@
 # Enhanced Selects
 
-- Version: 1.0.0
+- Version: 1.0.1
 - Date: 10th March 2016
-- Requirements: Symphony 2.4.x+
+- Requirements: Symphony 2.3.x+
 - Author: Chris Batchelor, [Firegoby Design](http://firegoby.com/)
 
 ## Summary

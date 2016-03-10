@@ -15,8 +15,15 @@
 		</author>
 	</authors>
 	<releases>
-		<release version="1.1.0" date="2016-03-07" min="2.3">
+		<release version="1.0.1" date="2016-03-10" min="2.3.x">
+		- Documentation and metadata fixes
+		</release>
+		<release version="1.0.0" date="2016-03-07" min="2.3.x">
 		- Initial release
 		</release>
 	</releases>
+    <media>
+        <item type="image" url="https://raw.githubusercontent.com/firegoby/enhanced_selects/master/screenshots/pages.png">Enhanced Pages page</item>
+        <item type="image" url="https://raw.githubusercontent.com/firegoby/enhanced_selects/master/screenshots/preferences.png">Enhanced Preferences page</item>
+    </media>
 </extension>
