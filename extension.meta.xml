@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="enhanced_selects" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+    <name>Enhanced Selects</name>
+	<description>Replace Admin select boxes with enhanced Select2 versions. Customizable blacklist and options per select.</description>
+    <repo type="github">https://github.com/firegoby/enhanced_selects</repo>
+	<!-- <url type="discuss">http://symphony-cms.com/discuss/thread/</url> -->
+	<types>
+		<type>Interface</type>
+	</types>
+	<authors>
+		<author>
+			<name github="firegoby" symphony="firegoby">Chris Batchelor</name>
+			<email>chris@firegoby.com</email>
+			<website>http://firegoby.com</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.1.0" date="2016-03-07" min="2.3">
+		- Initial release
+		</release>
+	</releases>
+</extension>
