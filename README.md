@@ -1,7 +1,7 @@
 # Enhanced Selects
 
-- Version: 1.0.1
-- Date: 10th March 2016
+- Version: 1.1.0
+- Date: 15th March 2016
 - Requirements: Symphony 2.3.x+
 - Author: Chris Batchelor, [Firegoby Design](http://firegoby.com/)
 
@@ -14,6 +14,7 @@
 - Automatically enhances all useful/relevant select boxes, including blueprints, preferences, etc
 - Customisable options for each select box, tailor Select2 options individually however you need. 
 - Easy Blacklist for disabling / compatibility with both core and other extensions.
+- Support (auto-blacklist) for Subsection Manager, Status Field, and Entry Relationship extensions.
 
 ![enhanced preferences](/screenshots/preferences.png)
 

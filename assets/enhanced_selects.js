@@ -35,7 +35,8 @@ jQuery(document).ready(function() {
 		".apply",
 		".duplicator",
 		".field-subsectionmanager",
-		".field-status"
+		".field-status",
+		".field-entry_relationship"
 	]
 
 	// Mark each blacklisted select with an ignore class

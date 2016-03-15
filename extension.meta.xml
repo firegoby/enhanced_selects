@@ -15,6 +15,9 @@
 		</author>
 	</authors>
 	<releases>
+		<release version="1.1.0" date="2016-03-15" min="2.3.x">
+		- Add ignore support for Field: Entry Relationship extension
+		</release>
 		<release version="1.0.1" date="2016-03-10" min="2.3.x">
 		- Documentation and metadata fixes
 		</release>
