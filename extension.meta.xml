@@ -15,6 +15,9 @@
 		</author>
 	</authors>
 	<releases>
+		<release version="1.2.0" date="2016-03-17" min="2.3.x">
+		- Add ignore support for Association UI Selector extension
+		</release>
 		<release version="1.1.0" date="2016-03-15" min="2.3.x">
 		- Add ignore support for Field: Entry Relationship extension
 		</release>
